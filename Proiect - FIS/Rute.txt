@@ -1,0 +1,32 @@
+Alba_Iulia Arad Cluj-Napoca Deva Oradea Sibiu Timisoara
+0 0 98.8 71.6 0 0 0
+0 0 0 0 115 0 58.6
+98.8 0 0 0 158 0 0
+71.6 0 0 0 0 113 154
+0 115 158 0 0 0 0
+0 0 0 113 0 0 0
+0 58.6 0 154 0 0 0
+
+0 0 79 50 0 0 0
+0 0 0 0 96 0 51
+79 0 0 0 143 0 0
+50 0 0 0 0 79 115
+0 96 143 0 0 0 0
+0 0 0 79 0 0 0
+0 51 0 115 0 0 0
+
+Niciuna/Fragil/Pretios/Periculos Niciuna/Fragil/Pretios/Periculos Niciuna/Fragil/Pretios/Periculos Niciuna/Fragil/Pretios/Periculos Niciuna/Fragil/Pretios/Periculos Niciuna Niciuna/Fragil/Pretios/Periculos
+Niciuna/Fragil/Pretios/Periculos Niciuna/Fragil/Pretios/Periculos Niciuna/Fragil/Pretios/Periculos Niciuna/Fragil/Pretios/Periculos Niciuna/Fragil/Pretios/Periculos Niciuna Niciuna/Fragil/Pretios/Periculos
+Niciuna/Fragil/Pretios/Periculos Niciuna/Fragil/Pretios/Periculos Niciuna/Fragil/Pretios/Periculos Niciuna/Fragil/Pretios/Periculos Niciuna/Fragil/Pretios/Periculos Niciuna Niciuna/Fragil/Pretios/Periculos
+Niciuna/Fragil/Pretios/Periculos Niciuna/Fragil/Pretios/Periculos Niciuna/Fragil/Pretios/Periculos Niciuna/Fragil/Pretios/Periculos Niciuna/Fragil/Pretios/Periculos Niciuna Niciuna/Fragil/Pretios/Periculos
+Niciuna/Fragil/Pretios/Periculos Niciuna/Fragil/Pretios/Periculos Niciuna/Fragil/Pretios/Periculos Niciuna/Fragil/Pretios/Periculos Niciuna/Fragil/Pretios/Periculos Niciuna Niciuna/Fragil/Pretios/Periculos
+Niciuna Niciuna Niciuna Niciuna Niciuna Niciuna Niciuna
+Niciuna/Fragil/Pretios/Periculos Niciuna/Fragil/Pretios/Periculos Niciuna/Fragil/Pretios/Periculos Niciuna/Fragil/Pretios/Periculos Niciuna/Fragil/Pretios/Periculos Niciuna Niciuna/Fragil/Pretios/Periculos
+
+8:00 9:00 8:00 9:00 8:00 9:00 8:00
+9:00 10:00 9:00 10:00 9:00 10:00 9:00
+10:00 11:00 10:00 11:00 10:00 11:00 10:00
+11:00 12:00 11:00 12:00 11:00 12:00 11:00
+12:00 13:00 12:00 13:00 12:00 13:00 12:00
+13:00 14:00 13:00 14:00 13:00 14:00 13:00
+14:00 15:00 14:00 15:00 14:00 15:00 14:00

@@ -1,0 +1,6 @@
+
+Nume_expeditor01;Prenume_expeditor01;Nr_telefon_expeditor01;Adresa_expeditor01;Oras_expeditor01;Nume_destinatar01;Prenume_destinatar01;Nr_telefon_destinatar01;Adresa_destinatar01;Oras_destinatie01;Aprobare;10.0;Niciuna;5;250.0;1000;client01;colet01;c01;Deva Sibiu;9/10/2/10/2023;10/10/3/10/2023;4/10/2023;0;Deva
+Nume_expeditor02;Prenume_expeditor02;Nr_telefon_expeditor02;Adresa_expeditor02;Oras_expeditor02;Nume_destinatar02;Prenume_destinatar02;Nr_telefon_destinatar02;Adresa_destinatar02;Oras_destinatie02;Aprobare;10.0;Niciuna;5;250.0;1000;client02;colet02;c02;Deva Sibiu;9/10/2/10/2023;10/10/3/10/2023;4/10/2023;0;Deva
+Nume_expeditor03;Prenume_expeditor03;Nr_telefon_expeditor03;Adresa_expeditor03;Oras_expeditor03;Nume_destinatar03;Prenume_destinatar03;Nr_telefon_destinatar03;Adresa_destinatar03;Oras_destinatie03;Aprobare;10.0;Niciuna;5;250.0;1000;client03;colet03;c03;Deva Sibiu;9/10/2/10/2023;10/10/3/10/2023;4/10/2023;0;Deva
+1;1;1;1;Timisoara;1;1;1;1;Cluj-Napoca;Transmis;12.0;Pretios;244;324.4;139;client01;colet04;c4;Timisoara Deva Alba_Iulia Cluj-Napoca ;14/0/25/4/2022;18/4/25/4/2022;28/4/2022;0;Cluj-Napoca
+12;21;21;21;Timisoara;21;21;21;21;Arad;Transmis;10.0;Fragil;51;58.6;30;client01;colet05;c5;Timisoara Arad ;15/0/25/4/2022;15/51/25/4/2022;28/4/2022;0;Arad

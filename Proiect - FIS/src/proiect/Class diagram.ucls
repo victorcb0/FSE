@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="proiect.Colete_functionar_interfata" project="Proiect - FIS" 
+    file="/Proiect - FIS/src/proiect/Colete_functionar_interfata.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="142" width="361" x="175" y="-214"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="proiect.Colete_client_interfata" project="Proiect - FIS" 
+    file="/Proiect - FIS/src/proiect/Colete_client_interfata.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="142" width="336" x="576" y="-214"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="3" language="java" name="proiect.Categorie_speciala" project="Proiect - FIS" 
+    file="/Proiect - FIS/src/proiect/Colet_clasa.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="160" width="198" x="2337" y="1048"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="4" language="java" name="proiect.Colet_clasa" project="Proiect - FIS" 
+    file="/Proiect - FIS/src/proiect/Colet_clasa.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1222" width="1124" x="2456" y="-214"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="proiect.Autentificare_interfata" project="Proiect - FIS" 
+    file="/Proiect - FIS/src/proiect/Autentificare_interfata.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="178" width="295" x="952" y="-214"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="proiect.Colete_curier_interfata" project="Proiect - FIS" 
+    file="/Proiect - FIS/src/proiect/Colete_curier_interfata.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="142" width="299" x="1287" y="-214"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="proiect.Functii" project="Proiect - FIS" 
+    file="/Proiect - FIS/src/proiect/Functii.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="294" x="1626" y="-214"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="proiect.Modificare_colet_functionar_interfata" project="Proiect - FIS" 
+    file="/Proiect - FIS/src/proiect/Modificare_colet_functionar_interfata.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="538" width="456" x="1960" y="-214"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="proiect.Clienti_functionar_interfata" project="Proiect - FIS" 
+    file="/Proiect - FIS/src/proiect/Clienti_functionar_interfata.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="142" width="322" x="3620" y="-214"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="proiect.Adaugare_colet_client_interfata" project="Proiect - FIS" 
+    file="/Proiect - FIS/src/proiect/Adaugare_colet_client_interfata.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="286" width="389" x="3982" y="-214"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="proiect.Achitare_client_interfata" project="Proiect - FIS" 
+    file="/Proiect - FIS/src/proiect/Achitare_client_interfata.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="232" width="385" x="4411" y="-214"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="proiect.Informatii_colet_curier_interfata" project="Proiect - FIS" 
+    file="/Proiect - FIS/src/proiect/Informatii_colet_curier_interfata.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="430" width="387" x="4836" y="-214"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="proiect.Adaugare_client_functionar_interfata" project="Proiect - FIS" 
+    file="/Proiect - FIS/src/proiect/Adaugare_client_functionar_interfata.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="178" width="379" x="5263" y="-214"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="proiect.Informatie_colet_client_interfata" project="Proiect - FIS" 
+    file="/Proiect - FIS/src/proiect/Informatie_colet_client_interfata.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="574" width="428" x="5682" y="-214"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="proiect.Algoritmul_lui_Dijkstra" project="Proiect - FIS" 
+    file="/Proiect - FIS/src/proiect/Algoritmul_lui_Dijkstra.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="197" x="6101" y="1048"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="16" language="java" name="proiect.Status" project="Proiect - FIS" 
+    file="/Proiect - FIS/src/proiect/Colet_clasa.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="322" width="207" x="2575" y="1048"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="17" language="java" name="proiect.Test_proiect" project="Proiect - FIS" 
+    file="/Proiect - FIS/src/proiect/Test_proiect.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="6220" y="21"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="18">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="19" name="obj"/>      
+      <multiplicity id="20" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="21">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="22" name="Status">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="23" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="24">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="25" name="Categorie">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="26" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
